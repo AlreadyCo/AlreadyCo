@@ -1,4 +1,5 @@
 ## [Hi there 👋](https://medium.com/@khangnhan)
+![image](https://github.com/user-attachments/assets/d8d5b2bb-a6fd-4f8f-833d-0f4f47dea813)
 
 <!--
 **AlreadyCo/AlreadyCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
